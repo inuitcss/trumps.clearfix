@@ -6,7 +6,7 @@
     "Harry Roberts <harry@csswizardry.com>"
   ],
   "description": "Small clearfixing utility for the inuitcss framework",
-  "main": "_generic.clearfix.scss",
+  "main": "_trumps.clearfix.scss",
   "keywords": [
     "inuitcss",
     "oocss",
