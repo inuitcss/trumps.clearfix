@@ -1,6 +1,6 @@
 {
   "name": "inuit-clearfix",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Small clearfixing utility for the inuitcss framework",
   "main": "_trumps.clearfix.scss",
   "repository": {
